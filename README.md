@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Godwin Goodman Effah
 - 👀 I’m interested in Angular, Ionic (web, mobile & PWAs) & the Flutter frontend framework as well as laravel APIs and Supabase.
 - 🌱 I’m currently learning all the above mention getting myself better each day.
-- 💞️ I’m looking to collaborate on awesome projects involing any of the frameworks mention.
+- 💞️ I’m looking to collaborate on awesome projects involving any of the frameworks mention.
 - 📫 Get in touch by sending an email to godwinabeaku@gmail.com.
 
 <!---
